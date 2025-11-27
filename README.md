@@ -12,10 +12,10 @@
 
 - 🔭 I’m currently working on...
   - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
+  - Improving my CV
 - 🌱 I’m currently learning ...
   - CSS
   - English
-  - Improving my CV
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
