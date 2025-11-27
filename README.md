@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on...
-  - Personal portfolio website
+  - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
 - 🌱 I’m currently learning ...
   - CSS
   - English
