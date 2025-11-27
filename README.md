@@ -1,6 +1,3 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 <h3 align="center">
   Hi, I'm Fernando Mulato
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -18,7 +15,7 @@
 - 🌱 I’m currently learning ...
   - CSS
   - English
-  - Improve my CV
+  - Improving my CV
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
