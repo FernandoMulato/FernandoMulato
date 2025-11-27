@@ -36,7 +36,6 @@
     <span> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     </span>
 
@@ -44,9 +43,6 @@
   
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
 #### 🔧 Other Tools and Technologies
 
@@ -63,7 +59,6 @@
 
  <span>
     <a  href="https://profiles.badgeclaimed.com/user-7607/badges/urn:uuid:5e202a56-f507-46a2-9437-632c9271510e.html"><img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" widtth="150" height="150"></a>
-    <a  href="https://profiles.badgeclaimed.com/user-4475/badges/urn:uuid:38c796e8-feb4-4d58-9be6-e31aa3039546.html"><img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/eb5b80fb-a74c-4026-bab0-e4450d1b276a_46d613c806df451aba86ba46cbc949c2.png" widtth="150" height="150"></a>   
   </span>
 
 
