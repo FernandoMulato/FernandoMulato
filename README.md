@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning ...
   - CSS
   - English
+  - Improve my CV
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
