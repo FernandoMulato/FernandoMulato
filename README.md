@@ -59,7 +59,6 @@
 
  <span>
     <a  href="https://profiles.badgeclaimed.com/user-7607/badges/urn:uuid:5e202a56-f507-46a2-9437-632c9271510e.html"><img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" widtth="150" height="150"></a>
-    <a  href="https://profiles.badgeclaimed.com/user-4475/badges/urn:uuid:38c796e8-feb4-4d58-9be6-e31aa3039546.html"><img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/eb5b80fb-a74c-4026-bab0-e4450d1b276a_46d613c806df451aba86ba46cbc949c2.png" widtth="150" height="150"></a>
   </span>
 
 
