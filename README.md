@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on...
   - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
   - Improving my CV
-  - Salon Booking System 
+  - Simple product shop
 - 🌱 I’m currently learning ...
   - CSS
   - English
