@@ -11,9 +11,10 @@
 </p>
 
 - 🔭 I’m currently working on...
+  - <a href="https://github.com/FernandoMulato/Simple-Product-Shop">Simple product shop</a>
   - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
   - Improving my CV
-  - <a href="https://github.com/FernandoMulato/Simple-Product-Shop">Simple product shop</a>
+  - 
 - 🌱 I’m currently learning ...
   - CSS
   - English
