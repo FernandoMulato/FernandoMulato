@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on...
   - Strengthening my systems engineering foundation
   - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
-  - Improving my CV
 - 🌱 I’m currently learning ...
   - English
   - JavaScript
