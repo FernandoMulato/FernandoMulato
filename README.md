@@ -15,7 +15,7 @@
   - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
 - 🌱 I’m currently learning ...
   - English
-  - JavaScript
+  - TypeScript
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
@@ -35,6 +35,7 @@
     <span> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48" height="48">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48" height="48">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48">
       <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48">-->
     </span>
 
