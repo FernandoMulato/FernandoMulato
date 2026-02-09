@@ -12,9 +12,8 @@
 
 - 🔭 I’m currently working on...
   - Strengthening my systems engineering foundation
-  - <a href="https://fernandomulato.github.io/PersonalPortfolio/">Personal portfolio website</a>
 - 🌱 I’m currently learning ...
-  - English
+  - software architecture 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 You can reach me at:: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
