@@ -18,9 +18,7 @@
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 You can reach me at:: <a href="juniormulato139@gmail.com">juniormulato139@gmail.com</a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-#### 🏆 Badges 
+## 🏆 Badges 
 
  <span>
     <a  href="https://profiles.badgeclaimed.com/user-7607/badges/urn:uuid:5e202a56-f507-46a2-9437-632c9271510e.html"><img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" widtth="150" height="150"></a>
